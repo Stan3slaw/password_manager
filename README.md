@@ -12,4 +12,4 @@
 
 
 ## Data flow
-<img src="./diagram.png" width="500px" />
+<img src="./diagram.png" alt="Data flow diagram" width="500px" />
