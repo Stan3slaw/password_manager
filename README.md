@@ -8,7 +8,8 @@
 * SHA256 - Predictable password hash
 * Argon2 - Unpredictable password hash for the database
 * pbkdf2 - Generate the vault key
-* AES256 - Encrypt and decrypt the vault
+* AES256 - Encrypt and decrypt the vault (outdated)
+* Custom algorithms with dynamic generation of key - Encrypt and decrypt the vault
 
 
 ## Data flow
